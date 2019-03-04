@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+          "shop": {
+            "name": "大刀洗 Oishi",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "Honey Ice Cream",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4462_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/ICPAKU0824_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "春水堂",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "醬油拌飯",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/TCPAKU0729_TP_V4.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/TCPAKU0736_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "Pizza Plaza",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "4寸 瑪格麗特",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/tachiraiIMGL4858_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4848_TP_V.jpg"
+        }
+      ]
+}
