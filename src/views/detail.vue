@@ -37,7 +37,7 @@
           </v-card-text>
           <v-card-text class="pt-0">
             <p class="text-xs-right ma-0">
-              <span class="subheading grey--text">{{ detail.shopName }}</span>
+              <span class="subheading grey--text">{{ detail.shop.name }}</span>
               <br>
               <span class="title grey--text">{{ detail.itemName }}</span>
             </p>
