@@ -35,6 +35,66 @@
           "imgUrl":
             "https://www.pakutaso.com/shared/img/thumb/tachiraiIMGL4858_TP_V.jpg",
           "bgUrl": "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4848_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "野菜坊",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "果冰沙",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/smIMGL3668_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/smIMGL3651_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "菊Toast",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "春菊吐司佐奶油",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/tacharaisIMGL4704_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/tachiaraIMGL4714_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "吉田食堂",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "咖哩花椰菜天婦羅",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4733_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4731_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "BakCak",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "無麩質胡蘿蔔蛋糕",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4775_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/tachiaraiIMGL4765_TP_V.jpg"
+        },
+        {
+          "shop": {
+            "name": "厚焼",
+            "phone": "02-22005500",
+            "address": "臺北市中山區松江路54號",
+            "time": "09:00 am ~ 06:00 pm"
+          },
+          "itemName": "Bezipan 蛋糕",
+          "imgUrl":
+            "https://www.pakutaso.com/shared/img/thumb/TTBIMGL4682_TP_V.jpg",
+          "bgUrl": "https://www.pakutaso.com/shared/img/thumb/TTBIMGL4691_TP_V.jpg"
         }
       ]
 }
